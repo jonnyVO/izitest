@@ -1,0 +1,5 @@
+MAIN_URL = 'https://www-test.izibook.ru'
+
+WAITING_TIMEOUT = 10
+NAME = '79990800010'
+PASSWORD = '123123'
